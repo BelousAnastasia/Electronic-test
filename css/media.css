@@ -43,10 +43,8 @@
     margin-bottom: 24px;
   }
 
-  section.method .product_img {
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+  section.method .product_img img{
+    margin: 0 auto;
   }
 
   section.only_form .bg_form {
