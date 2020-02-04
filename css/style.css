@@ -524,11 +524,14 @@ section.method .product_info p {
   margin-bottom: 16px;
 }
 
+section.method .product_img{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
 section.method .product_img img {
   max-width: 374px;
-  display: block;
-  margin-right: 0;
-  margin-left: auto;
 }
 
 section.method_one {

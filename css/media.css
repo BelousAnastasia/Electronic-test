@@ -43,8 +43,8 @@
     margin-bottom: 24px;
   }
 
-  section.method .product_img img{
-    margin: 0 auto;
+  section.method .product_img{
+    justify-content: center;
   }
 
   section.only_form .bg_form {
